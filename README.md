@@ -1,7 +1,7 @@
 ### Hi, I'm shaobeichen 👋
 
 ### 🥇 Skills
-**Front End** /  **Backend** 
+**Front End** /  **Back End** / **Indie Hacker**
 
 ### 🤖 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,vue,nuxt,express,react)](https://skillicons.dev)
